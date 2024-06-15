@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417309941793",
+    "project_id": "tender-fire-demo",
+    "storage_bucket": "tender-fire-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417309941793:android:6199d3ded72a0fd6330360",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW7VbEMsIuvJnicoeR6A6jwMPJjNynfNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
